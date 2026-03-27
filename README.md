@@ -149,4 +149,4 @@ We welcome contributions. If you work with radar systems, surveillance data, or 
 
 ## License
 
-MIT
+Apache 2.0 — see [LICENSE](LICENSE) for details.
