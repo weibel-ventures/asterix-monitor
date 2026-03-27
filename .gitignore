@@ -1,0 +1,19 @@
+# Legacy Weibel code (private, not for public distribution)
+xaas-radar-connector/
+xaas-tracker-service/
+xenta-replayer/
+
+# OS / editor
+**/.DS_Store
+.DS_Store
+
+# Playwright test artifacts
+.playwright-mcp/
+
+# Screenshots (dev artifacts)
+*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
